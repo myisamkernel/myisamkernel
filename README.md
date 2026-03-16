@@ -1,6 +1,6 @@
 # Hi, I'm Samuel Sinagara 👋
 
-![](https://komarev.com/ghpvc/?username=myisamkernel&label=Profile%20views&color=0e75b6&style=flat)
+![](https://komarev.com/ghpvc/?username=myisamkernel&label=Profile%20views&color=0e75b6&style=flat&v=2)
 
 Software Engineer with 3+ years of experience building scalable APIs, microservices, and industrial system integrations. I specialize in **Golang, Laravel, and PostgreSQL**, with experience delivering full-stack systems using **React**. 
 
